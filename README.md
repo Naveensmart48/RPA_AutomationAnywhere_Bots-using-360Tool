@@ -15,5 +15,5 @@ This repository features a collection of fundamental bots developed using Automa
 - **SurveyformFilling.atmx**: Automates the completion and submission of survey forms.
 
 These bots are intended to streamline workflows and enhance productivity by automating repetitive tasks.
-![A360 Icon](https://github.com/Naveensmart48/Automation_Anywhere_Bots/blob/master/a360icon.jpg)
+
 
